@@ -266,13 +266,13 @@ font-size:12px;
 	font-family:sahelblack;
 	color:black;
 	border:1px solid;
-	font-size:14px;
+	font-size:12px;
 	}
 	.t1> thead> tr> td {
 	background-color:#EAFF74;
 	color:darkblue;
 	border:1px solid;
-	font-size:14px;
+	font-size:12px;
 	}
 	.t1> tbody> tr> td {
 	border:1px solid black;
@@ -417,7 +417,7 @@ text-align:center;
 
 .paraf {
 font-family:mikhak;
-font-size:15px;
+font-size:13px;
 color:darkblue;
 text-shadow:
 margin-top:-15px;
@@ -441,7 +441,7 @@ margin-right:5px;
 .tittr {
 width:100%;
 font-family:sahelblack;
-font-size:20px;
+font-size:17bpx;
 background-color:red;
 color:white;
 text-align:center;
@@ -450,7 +450,7 @@ text-align:center;
 width:100%;
 font-family:sahelbold;
 font-weight:bolder;
-font-size:14px;
+font-size:13px;
 color:darkblue;
 background-color:lightblue;
 }
