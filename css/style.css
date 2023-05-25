@@ -441,7 +441,7 @@ margin-right:5px;
 .tittr {
 width:100%;
 font-family:sahelblack;
-font-size:17bpx;
+font-size:17px;
 background-color:red;
 color:white;
 text-align:center;
@@ -449,10 +449,9 @@ text-align:center;
 .manual {
 width:100%;
 font-family:sahelbold;
-font-weight:bolder;
 font-size:13px;
 color:darkblue;
-background-color:lightblue;
+background-color:orange;
 }
 .table1 {
 
