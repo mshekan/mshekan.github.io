@@ -368,7 +368,7 @@ background-color:black;
 .txt2pic {
 font-family:Tilt Prism;
 font-weight:bolder;
-font-size:28pt;
+font-size:23pt;
 margin-right:100px;
 margin-top:-52pt;
 text-shadow:-3px -3px 1px black,1px 1px 0px black;
@@ -417,12 +417,12 @@ text-align:center;
 
 .paraf {
 font-family:mikhak;
-font-size:13px;
+font-size:14px;
 color:darkblue;
 text-shadow:
 margin-top:-15px;
 text-align:right;
-line-height:30px;
+line-height:28px;
 }
 .imginfo {
 width:150px;
