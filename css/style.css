@@ -266,7 +266,7 @@ font-size:12px;
 	font-family:sahelblack;
 	color:black;
 	border:1px solid;
-	font-size:12px;
+	font-size:14px;
 	}
 	.t1> thead> tr> td {
 	background-color:#EAFF74;
@@ -307,6 +307,7 @@ font-size:12px;
 	color:white;
 	font-family:sahelblack;
 	}
+
 
 .tapp {
 color:darkblue;
@@ -453,6 +454,18 @@ font-size:13px;
 color:darkblue;
 background-color:orange;
 }
+.update {
+width:95%;
+border:2px solid brown;
+border-radius:20pt;
+background-color:red;
+color:yellow;
+font-family:mikhak;
+font-size:17px;
+text-align:center;
+margin-top:-25px;
+position:static;
+}
 .table1 {
 
 }
@@ -553,7 +566,7 @@ border-left:6px ridge gray;
   margin-top:2px;
   font-family:irsblack;
   font-size:15px;
-0
+}
        .formnav table {
 
 
