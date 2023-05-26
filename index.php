@@ -140,21 +140,65 @@
   </div>
 </div>
 
-<center>
+
     <script src="js/saat.js"></script>
     <script src="js/tarikh.js"></script>
 
+<div style="width:380px;margin-top:0px" align="center" >
+  <div class="theme-tamin">
+  <table border="3"  style="width:100%;font-size:14px" class="bg-success" >
+    <tr>
+      <th  style="color:orange;text-align:center;font-size:20px;" bgcolor="black" >
+  <span class="icofont-warning-alt" style="font-size:25pt" id="xy" ></span>
+      </th>
+      <th colspan="2" style="width:" bgcolor="black"  id="yy" >
+<span style="font-family:mikhak;font-size:20px;" >
+آخرین مطالب
+۞
+1402/03/06
+</span>
+      </th>
+      <th  style="color:orange;text-align:center;font-size:20px" bgcolor="black" >
+      <span class="icofont-warning-alt" style="font-size:25pt" id="xx"  ></span>
+      </th>
+
+    </tr>
+    <tr>
+     <td>
+      <img src="media/cl.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/hc.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/hi.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/tls0.png" style="width:90px" >
+     </td>
+    </tr>
+    
+    <tr>
+     <td>
+      <img src="media/siip.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/darkk0.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/nvv0.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/argo.png" style="width:90px" >
+     </td>
+    </tr>
+  </table>
+ </div>
+</div>
 
 
-  <!--div class="panel panel-primary " style="width:380px" >
-    <div class="panel-heading">آرشیو مطالب</div>
-    <div class="panel-body">
-       <div class="theme-web">
-         <button class="red" >1402/02/07</button>
-       </div>
-    </div>
-  </div-->
-<center>
+  
+
 <div class="timediv mybg2" style="border-bottom:6px ridge gray" >
   <table class="t-timer" >
     <tr class="t-th" >
@@ -182,7 +226,7 @@
 <script src="js/timer.js"></script>
 
 
-<!--@@@@@  HTTP CUSTOM  @@@@@@-->
+<!--@@@🔴🔴🔴  HTTP CUSTOM  🔴🔴🔴@@@-->
 <div align="center">
   <div class="titrcol mgrt" >
         <span class="titrcol0" >
@@ -211,12 +255,12 @@
     <br>
   <div class="hc" align="justify" style="margin-top:-15px" >
   <form class="infoform">
-	<img src="media/hc.png" class="imginfo" style="text-align:left" align="left" >
+	<img src="media/hc.png" class="imginfo" style="text-align:right" align="right" >
 	<div class="paraf" align="right" style="text-align:justify;margin-right:170px" >
-	نسخه جدید این برنامه دارای پیشرفت های چشم گیری از جمله رفع نواقص و باگ های برنامه است که برای مثال قبلا برای اتصال به سرور زمان زیادی صرف میشد ولی با نسخه جدید این مشکل برطرف شده است و‌ به سرعت می توانید به سرورهای دلخواه دسترسی پیدا کنید.
+یک برنامه کلاینت SSH و کلاینت شبکه خصوصی مجازی است که با هدر سفارشی درخواست HTTP اتصال امن را در شبکه اینترنت فراهم می کند.
 	</div><br>
-	این برنامه کاملا اطلاعات شما را محفوظ نگه می دارد و‌ نمی گذارد به بیرون درز پیدا کند مخصوصا اطلاعاتی که در بین سرور ها جا به جا می شود‌.
-	قفل استاتیک به برنامه کمک میکند تا اطلاعات و‌ حریم‌ شخصی شما به طور کامل حفظ شود و از سرقت های احتمالی جلوگیری شود و این قفل را فقط شخصی که اتصال را برقرار می کند می تواند باز کند.
+این روزها در اکثر کانال ها و وب سایت ها صحبت از برنامه اچ تی تی پی کاستوم است که با استفاده از کانفیگ های مخصوص امکان اتصال و گشت و گذار امن را فراهم می کند. این برنامه درواقع یک کلاینت است که برای اتصال به سرور استفاده می شود. این اپلیکیشن مخصوص گوشی های اندرویدی طراحی شده است اما با استفاده از شبیه ساز ها می توانید در سایر سیستم عامل ها مثل ویندوز آن را اجرا کنید.
+
 	</span>
 	 
 	</form>
@@ -231,20 +275,20 @@
        <td>2.20.02</td>
        <th>به‌روزرسانی</th>
        <td>1402/02/03</td>
-       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/clqr.png" target="_blank" onclick="_blank" type="_blank" >
-        <img src="media/clqr.png" style="width:90px"  >
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/hcqr.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/hcqr.png" style="width:90px"  >
        </a></th>
 
       </tr>
       <tr>
        <td colspan="4" >
-        <button class="btn btn-primary"  id="btnd2" onclick="location.href='1402-02-10.html';">دانلــود نـرم‌افــزار</button>
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/HTTPCustom.apk';">دانلــود نـرم‌افــزار</button>
       </td>
 
       </tr>
       <tr>
        <td colspan="4" >
-        <button class="btn btn-dark"  id="btnd2" onclick="location.href='1402-02-10.html';">
+        <button class="btn btn-dark"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/help/hc.mp4';">
         <span style="font-family:irsblack;font-size:14px;" >
 ویدیو آموزش استفاده از فایل‌های کانفیگ
         </span></button>  
@@ -254,102 +298,169 @@
    </table>
    
  
-    <div class="hc" >
-    <table class="t1" >
-    <thead>
-    <tr>
-    <th  style="width:30px">کد</th>
-    <th style="width:30px" >کشور</th>
-    <th style="width:70px">نوع</th>
-    <th  style="width:60px">همراه اول</th>
-    <th style="width:50px">ایرانسل</th>
-    <th style="width:100px">اعتبار/حجم</th>
-    <th style="width:60px">دانلود</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <th>038</th>
-    <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
-    <td>SSH</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td>90سرور کشور کره</td>
-    <td>
-    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/038.bak';">
+<table class="t1" >
+ <thead>
+  <tr>
+  <th  style="width:30px">کد</th>
+  <th style="width:30px" >کشور</th>
+  <th style="width:70px">نوع</th>
+  <th  style="width:60px">همراه اول</th>
+  <th style="width:50px">ایرانسل</th>
+  <th style="width:100px">اعتبار/حجم</th>
+  <th style="width:60px">دانلود</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th>000</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
+   <td>SSH</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>0000/00/00</td>
+   <td>
+       <button class="btn dark" style="color:white" onclick="location.href='#';">
+<span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <!--tr>
+   <th>032</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
+   <td>SSH</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/032.hc';">
     <span style="margin-top:-30px" >دانلود</span>
-    </button>
-    </td>
-    </tr>
-    <tr>
-    <th>039</th>
-    <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
-    <td>SSH</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td>50سرور کشور روسیه</td>
-    <td>
-    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/039.bak';">
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>033</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
+   <td>SSH</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/033.hc';">
     <span style="margin-top:-30px" >دانلود</span>
-    </button>
-    </td>
-    </tr>
-    <tr>
-    <th>040</th>
-    <td>200سرور</td>
-    <td>SSH+</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td>رمز عدد 1</td>
-    <td>
-    <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/040.bak';">
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>034</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>SSH</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/034.hc';">
     <span style="margin-top:-30px" >دانلود</span>
-    </button>
-    </td>
-    </tr>
-    <!--tr>
-    <th>036</th>
-    <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
-    <td>SSH</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td>90سرور کشور کره</td>
-    <td>
-    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/035.bak';">
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>035</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇳</td>
+   <td>SSH</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/035.hc';">
     <span style="margin-top:-30px" >دانلود</span>
-    </button>
-    </td>
-    </tr>
-    <tr>
-    <th>037</th>
-    <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
-    <td>SSH</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td>50سرور کشور روسیه</td>
-    <td>
-    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/036.bak';">
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>036</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+   <td>SSH</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/036.hc';">
     <span style="margin-top:-30px" >دانلود</span>
-    </button>
-    </td>
-    </tr>
-    <tr>
-    <th>038</th>
-    <td>200سرور</td>
-    <td>SSH+</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-    <td>رمز عدد 1</td>
-    <td>
-    <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/038.bak';">
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>029</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
+   <td>SSH</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/029.hc';">
     <span style="margin-top:-30px" >دانلود</span>
-    </button>
-    </td>
-    </tr-->
-    
-    </tbody>
-    </table>
-    
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>030</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇬🇧</td>
+   <td>SSH</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/030.hc';">
+    <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <!---tr>
+   <th>031</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/031.hc';">
+    <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>032</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/032.hc';">
+    <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  </tr>
+  <tr>
+   <th>033</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/02/21</td>
+   <td>
+       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/033.hc';">
+    <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr-->
+  
+  
+  
+ </tbody></b>
+</table>
+
     
     
 <br>
@@ -358,41 +469,37 @@
   نحوه استفاده از برنامه 
   </div>
   <div class="manual" >
-  <li>نرم افزار را دانلود کنید</li>
-  <li>برنامه را روی گوشی خود نصب کنید.</li>
-  <li>فایل‌های کانفیگ هر برنامه را ما هر ۲روز یکبار داخل این صفحه قرار میدهیم.فایل‌های کانفیگ مربوط به نرم‌افزار خودتان را دانلود کنید.</li>
-  <li>مطابق فیلم آموزشی که قرار دادیم فایل‌های کانفیگ را در داخل برنامه باز کنید.</li>
-  <li>از برنامه لذت ببرید</li>
-  </div>
-   <rt style="color:#0078FF;font-size:16px" >🔵</rt>
-   <rt>این نماد به معنی ((ویژه همـراه اول))</rt>
-   <br>
-   <rt style="color:#0078FF;font-size:16px" >🟡</rt>
-   <rt>این نماد به معنی ((ویژه ایــرانسـل))</rt>
-   <br>
-   
-   <rp class="fa fa-key" style="color:red;font-size:18px;" >-</rp><rt>رمز همه فایل‌ها یکی است.</rt>
-   <code style="border:1px solid red" >PASSWORD:  1</code>
-   <br>
-   <rp class="fa fa-file-circle-exclamation" style="color:red;font-size:18px" >-</rp>
-   <rt>پسوند فایلها</rt>
-   <code style="border:1px solid red;" >BAK</code>
-   <rt>می‌باشد.</rt>
-   <br>
-   <rt class="icofont-thief" style="color:red;font-size:22px;" >-</rt>
-   <rt>هرفایل شامل تعداد زیادی سـرور می‌باشد.</rt>
-	</div>  
+  <li>در گام نخست لازم است این برنامه را دانلود و روی گوشی اندرویدی خود نصب کنید</li>
+  <li>سپس برنامه را نصب کنید.</li>
+  <li>اکنون قبل از هرکاری شما نیاز به یک فایل کانفیگ دارید. لازم است فایل کانفیگ را دانلود کرده و روی گوشی خود آماده داشته باشید.</li>
+  <li>ما کانفیگ‌های این برنامه را بصورت دو روز یکبار درون این صفحه قرار می‌دهیم تا شما بتوانید دانلود کنید.</li>
+  <li>
+    <span>
+     حال در برنامه هایی که برای باز کردن فایل معرفی می شود لازم است
+     <br><code style="border:1px solid red;background-color:lightyellow;" >Import HTTP Custom Config</code>
+     را انتخاب کنید.
+    </span>
+  </li>
+
+  <li>
+    <span>
+کانفیگ در برنامه درون ریزی می شود اکنون کافی است روی
+     <code style="border:1px solid red;background-color:lightyellow;" >CONNECT</code>
+زنید.
+    </span>
+  </li></div>
+</div>  
   
 <br>
 
-</div></td></center></b></div></div></center></center>
+</div></div>
 <div class="footcol">
 .
 </div>
 
-<!--@@@@@  HTTP CUSTOM  @@@@@@-->
+<!--@@@🔵🔵🔵  HTTP CUSTOM  🔵🔵🔵@@@-->
 
-<!--@@@@@  CLI PRO  @@@@@@-->
+<!--@@@🔴🔴🔴  CLI PRO  🔴🔴🔴@@@-->
 <div align="center">
   <div class="titrcol mgrt" >
         <span class="titrcol0" >
@@ -421,7 +528,7 @@
     <br>
   <div class="hc" align="justify" style="margin-top:-15px" >
   <form class="infoform">
-	<img src="media/cl.png" class="imginfo" style="text-align:left" align="left" >
+	<img src="media/cl.png" class="imginfo" style="text-align:right" align="right" >
 	<div class="paraf" align="right" style="text-align:justify;margin-right:170px" >
 	نسخه جدید این برنامه دارای پیشرفت های چشم گیری از جمله رفع نواقص و باگ های برنامه است که برای مثال قبلا برای اتصال به سرور زمان زیادی صرف میشد ولی با نسخه جدید این مشکل برطرف شده است و‌ به سرعت می توانید به سرورهای دلخواه دسترسی پیدا کنید.
 	</div><br>
@@ -448,7 +555,7 @@
       </tr>
       <tr>
        <td colspan="4" >
-        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/VClientP.apk';">دانلــود نـرم‌افــزار</button>
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/VClientP.apk';">دانلــود نـرم‌افــزار (حجـم:  7.2 مگابایت)</button>
       </td>
 
       </tr>
@@ -595,12 +702,12 @@
   
 <br>
 
-</div></td></center></b></div></div></center></center>
+</div></td></b></div></div>
 <div class="footcol">
 .
 </div>
 
-<!--@@@@@  CLI PRO  @@@@@@-->
+<!--@@@🔵🔵🔵  CLI PRO  🔵🔵🔵@@@-->
 
 
 
@@ -622,16 +729,43 @@ hs.src = ('//s10.histats.com/js15_as.js');
 </footer>
  
 <script type="text/javascript">
+xy == 0;
 var intxy = setInterval(function() {
 if(xy == 0){
 
-xy = 1;
-document.getElementById("xy").style.color = "orange";
+xy == 1;
+document.getElementById("xy").style.color = "yellow";
 }else{
-xy = 0;
-document.getElementById("xy").style.color = "black";
+xy == 0;
+document.getElementById("xy").style.color = "red";
 }
-}, 500);
+}, 1000);
+</script>
+<script type="text/javascript">
+xy == 0;
+var intxy = setInterval(function() {
+if(xy == 0){
+
+xy == 1;
+document.getElementById("xx").style.color = "yellow";
+}else{
+xy == 0;
+document.getElementById("xx").style.color = "red";
+}
+}, 1000);
+</script>
+<script type="text/javascript">
+xy == 0;
+var intxy = setInterval(function() {
+if(xy == 0){
+
+xy == 1;
+document.getElementById("yy").style.color = "yellow";
+}else{
+xy == 0;
+document.getElementById("yy").style.color = "red";
+}
+}, 1000);
 </script>
 </body>
 <script src="js/timer.js"></script>

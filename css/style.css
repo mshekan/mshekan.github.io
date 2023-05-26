@@ -427,7 +427,7 @@ line-height:28px;
 }
 .imginfo {
 width:150px;
-position:absolute;
+position:static;
 border:1px solid black;
 background-color:darkgreen;
 border-radius:5px;
@@ -452,7 +452,7 @@ width:100%;
 font-family:sahelbold;
 font-size:13px;
 color:darkblue;
-background-color:orange;
+background-color:#E4FFCF;
 }
 .update {
 width:95%;
