@@ -231,20 +231,20 @@
        <td>2.20.02</td>
        <th>به‌روزرسانی</th>
        <td>1402/02/03</td>
-       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/hcqr.png" target="_blank" onclick="_blank" type="_blank" >
-        <img src="media/hcqr.png" style="width:90px"  >
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/clqr.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/clqr.png" style="width:90px"  >
        </a></th>
 
       </tr>
       <tr>
        <td colspan="4" >
-        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/HTTPCustom.apk';">دانلــود نـرم‌افــزار</button>
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='1402-02-10.html';">دانلــود نـرم‌افــزار</button>
       </td>
 
       </tr>
       <tr>
        <td colspan="4" >
-        <button class="btn btn-dark"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/help/hc.mp4';">
+        <button class="btn btn-dark"  id="btnd2" onclick="location.href='1402-02-10.html';">
         <span style="font-family:irsblack;font-size:14px;" >
 ویدیو آموزش استفاده از فایل‌های کانفیگ
         </span></button>  
@@ -254,169 +254,102 @@
    </table>
    
  
-<table class="t1" >
- <thead>
-  <tr>
-  <th  style="width:30px">کد</th>
-  <th style="width:30px" >کشور</th>
-  <th style="width:70px">نوع</th>
-  <th  style="width:60px">همراه اول</th>
-  <th style="width:50px">ایرانسل</th>
-  <th style="width:100px">اعتبار/حجم</th>
-  <th style="width:60px">دانلود</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <th>000</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
-   <td>SSH</td>
-   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>0000/00/00</td>
-   <td>
-       <button class="btn dark" style="color:white" onclick="location.href='#';">
-<span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <!--tr>
-   <th>032</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
-   <td>SSH</td>
-   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/032.hc';">
+    <div class="hc" >
+    <table class="t1" >
+    <thead>
+    <tr>
+    <th  style="width:30px">کد</th>
+    <th style="width:30px" >کشور</th>
+    <th style="width:70px">نوع</th>
+    <th  style="width:60px">همراه اول</th>
+    <th style="width:50px">ایرانسل</th>
+    <th style="width:100px">اعتبار/حجم</th>
+    <th style="width:60px">دانلود</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <th>038</th>
+    <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
+    <td>SSH</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>90سرور کشور کره</td>
+    <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/038.bak';">
     <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <tr>
-   <th>033</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
-   <td>SSH</td>
-   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/033.hc';">
+    </button>
+    </td>
+    </tr>
+    <tr>
+    <th>039</th>
+    <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
+    <td>SSH</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>50سرور کشور روسیه</td>
+    <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/039.bak';">
     <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <tr>
-   <th>034</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
-   <td>SSH</td>
-   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/034.hc';">
+    </button>
+    </td>
+    </tr>
+    <tr>
+    <th>040</th>
+    <td>200سرور</td>
+    <td>SSH+</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>رمز عدد 1</td>
+    <td>
+    <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/040.bak';">
     <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <tr>
-   <th>035</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇨🇳</td>
-   <td>SSH</td>
-   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/035.hc';">
+    </button>
+    </td>
+    </tr>
+    <!--tr>
+    <th>036</th>
+    <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
+    <td>SSH</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>90سرور کشور کره</td>
+    <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/035.bak';">
     <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <tr>
-   <th>036</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
-   <td>SSH</td>
-   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/036.hc';">
+    </button>
+    </td>
+    </tr>
+    <tr>
+    <th>037</th>
+    <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
+    <td>SSH</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>50سرور کشور روسیه</td>
+    <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/036.bak';">
     <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <tr>
-   <th>029</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
-   <td>SSH</td>
-   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/029.hc';">
+    </button>
+    </td>
+    </tr>
+    <tr>
+    <th>038</th>
+    <td>200سرور</td>
+    <td>SSH+</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>رمز عدد 1</td>
+    <td>
+    <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/038.bak';">
     <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <tr>
-   <th>030</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇬🇧</td>
-   <td>SSH</td>
-   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/030.hc';">
-    <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <!---tr>
-   <th>031</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
-   <td>SSH</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/031.hc';">
-    <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  <tr>
-   <th>032</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
-   <td>SSH</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/032.hc';">
-    <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr>
-  </tr>
-  <tr>
-   <th>033</th>
-   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
-   <td>SSH</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
-   <td>1402/02/21</td>
-   <td>
-       <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/httpc/033.hc';">
-    <span style="margin-top:-30px" >دانلود</span>
-     </button>
-   </td>
-  </tr-->
-  
-  
-  
- </tbody></b>
-</table>
-
+    </button>
+    </td>
+    </tr-->
+    
+    </tbody>
+    </table>
+    
     
     
 <br>
@@ -431,11 +364,28 @@
   <li>مطابق فیلم آموزشی که قرار دادیم فایل‌های کانفیگ را در داخل برنامه باز کنید.</li>
   <li>از برنامه لذت ببرید</li>
   </div>
-</div>  
+   <rt style="color:#0078FF;font-size:16px" >🔵</rt>
+   <rt>این نماد به معنی ((ویژه همـراه اول))</rt>
+   <br>
+   <rt style="color:#0078FF;font-size:16px" >🟡</rt>
+   <rt>این نماد به معنی ((ویژه ایــرانسـل))</rt>
+   <br>
+   
+   <rp class="fa fa-key" style="color:red;font-size:18px;" >-</rp><rt>رمز همه فایل‌ها یکی است.</rt>
+   <code style="border:1px solid red" >PASSWORD:  1</code>
+   <br>
+   <rp class="fa fa-file-circle-exclamation" style="color:red;font-size:18px" >-</rp>
+   <rt>پسوند فایلها</rt>
+   <code style="border:1px solid red;" >BAK</code>
+   <rt>می‌باشد.</rt>
+   <br>
+   <rt class="icofont-thief" style="color:red;font-size:22px;" >-</rt>
+   <rt>هرفایل شامل تعداد زیادی سـرور می‌باشد.</rt>
+	</div>  
   
 <br>
 
-</div></div>
+</div></td></center></b></div></div></center></center>
 <div class="footcol">
 .
 </div>
@@ -645,7 +595,7 @@
   
 <br>
 
-</div></td></b></div></div>
+</div></td></center></b></div></div></center></center>
 <div class="footcol">
 .
 </div>
