@@ -418,12 +418,18 @@ text-align:center;
 
 .paraf {
 font-family:mikhak;
+font-weight:bolder;
 font-size:14px;
 color:darkblue;
 text-shadow:
 margin-top:-15px;
 text-align:right;
 line-height:28px;
+}
+.paraf-span {
+font-family:vazirbd;
+font-size:12px;
+font-weight:bolder;
 }
 .imginfo {
 width:150px;
