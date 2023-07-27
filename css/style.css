@@ -41,7 +41,7 @@ border:1px solid black;
 font-family:Chela One;
 }
 header {
-  background-image:url("../media/0000.jpg");
+  background-image:url("../media/wall.bk2.jpg");
   height:140px;
   width:380px;
   border-bottom-left-radius:30t;
@@ -60,16 +60,16 @@ header {
 }
 		header .spanh0 {
 			font-size:22px;
-			color:darkred;
+			color:yellow;
 			font-family:sahelblack;
 		}
 		header .spanh1 {
 		font-size:16px;
-		color:darkred;
+		color:red;
 		font-family:sahelblack;
 		}
 		header .spanh2 {
-			color:darkgreen;
+			color:white;
 			font-size:20px;
 			font-family:irsblack;
 		}
@@ -237,15 +237,12 @@ margin-right:10px;
 	
 	}
 .infoexp {
-border:2px solid brown;
-color:black;
 margin-top:3px;
 margin-bottom:5px;
-background-color:#E7FFCF;
 text-align:justify;
 font-size:12px;
 width:340px;
-border:3px double red;
+border:5px double yellow;
 }
 .hc {
 
@@ -455,9 +452,11 @@ margin-right:5px;
 width:100%;
 font-family:sahelblack;
 font-size:17px;
-background-color:red;
+background-color:black;
 color:white;
 text-align:center;
+height:30px;
+margin-top:10px;
 }
 .manual {
 width:100%;
