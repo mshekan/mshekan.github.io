@@ -14,11 +14,7 @@ xborj = borj -= 3;
 xRoooz = chandom += 9;
 xborj = borj -= 2;
 }
-var myborj;
-if(xborj = 4){
-myborj = "تیـــر"
-}
+
 
 document.getElementById("xday").innerHTML =xRoooz + "/";
 document.getElementById("xhafte").innerHTML = shanbe[hafte];
-
