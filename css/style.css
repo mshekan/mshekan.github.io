@@ -591,6 +591,37 @@ border-left:6px ridge gray;
           width:185px;
             margin-top:5px;        
            }
+.div-titlemenu{
+border:1px solid white;
+color:yellow;
+margin-top:3px;
+margin-bottom:5px;
+background-color:black;
+font-size:25px;
+}
+.div-lastpost {
+font-family:nerko;
+text-align:right;
+margin-right:60px;
+margin-left:20px;
+color:gold;
+border:1px solid white;
+border-radius:10px;
+background-color:black;
+transform:50px;
+margin-top:3px;
+}
+.div-lastpost-fa {
+text-align:right;
+margin-right:60px;
+margin-left:20px;
+color:gold;
+border:1px solid white;
+border-radius:10px;
+background-color:black;
+transform:50px;
+margin-top:3px;
+}
 
 mymenu {
  background-color:;
