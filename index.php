@@ -35,17 +35,16 @@
 <center>
 <div class="timediv mybg2" style="border-top:0px;border-bottom:2px dashed darkgreen;"  >
 <table class="table5" ><tr>
-     <th><span id="xhafte" ></span></th>
-     <th>۞</th>            
-     <th><span id="xday" ></span></th>
-     <th><span id="xmaah" ></span></th>
-     <th>/1402</th>
+
+
+
+
      <th style="color:black" >@@@@</th>
-     <td><span id="ms" style="font-size:23px;color:white" ></span></td>
+     <!--td><span id="ms" style="font-size:23px;color:white" ></span></td>
      <td><span style="color:gold" >.</span></td>
      <td><span id="md" style="color:#97FF00" ></span></td>
      <td><span>:</span></td>
-     <td><span id="mh" style="color:#97FF00" ></span></td>
+     <td><span id="mh" style="color:#97FF00" ></span></td-->
  </tr>
  </table>   
 </div>
@@ -63,109 +62,282 @@
 	  </tr>
 	</table>
 </header>
-<div class="txt-head mybg2"  >
-<marquee direction="right">
-خوش آمدید؛به دلیل رفع مشکلات فنی؛بعضی از لینک‌ها کار نمی‌کنند
-</marquee>
+
+
+  
+<!--  🕠🕓🕟 TIME 🕡🕞🕝 -->
+<div class="timediv mybg2" style="border-top:6px ridge gray" >
+  <table class="t-timer" >
+    <tr class="t-th" style="text-align:center" >
+      <th colspan="5" style="border-left:1px solid gold;width:120px" >ساعت</th>
+
+
+
+
+      <th style="border-left:1px solid gold;width:100px" >روز</th>
+
+
+
+      <th colspan="5" style="border-left:1px solid gold;width:120px" >تاریخ</th>
+
+    </tr>
+    <tr class="t-td" >
+      <td><span id="ms" ></span></td>
+      <td style="color:orange" >.</td>
+      <td><span id="md" ></span></td>
+      <td style="color:orange" >:</td>
+      <td><span id="mh"></span></td>
+      <td style="border:1px solid gold;color:orange" ><span  id="xhafte"></span></td>
+      <td><span id="xday" ></span></td>
+      <td style="color:orange" >/</td>
+      <td><span id="xmaah" ></span></td>
+      <td style="color:orange" >/</td>
+      <td><span >1402</span></td>
+    </tr>
+  </table>
+
+</div>
+
+<!--  🕠🕓🕟 TIME 🕡🕞🕝 -->
+
+
+<div style="width:380px;border:5px ridge gray;" >
+<div class="mybg4" style="font-family:sahelblack;font-size:17px">
+<div class="theme-mobile">
+<div style="border:1px solid black;height:1px;" ></div>
+
+<!--  ✴️✴️✴️✴️  ARCHIVE  ✴️✴️✴️✴️ -->
+<div class="div-titlemenu" >
+ <span class="fa fa-folder-open" style="color:lightgreen" ></span>
+آرشیــو مطالــب
+ <span class="fa fa-history" style="color:white" ></span>
+</div>
+	<table style="width:100%;font-size:14px" >
+	 <tr style="text-align:center" >
+	  <td><button class="red archivebtn" target="_blank"  onclick="location.href='#';">---</button></td>
+	  <td><button class="normal archivebtn" target="_blank"  onclick="location.href='#';">---</button></td>
+	  <td><button class="orange archivebtn" target="_blank"  onclick="location.href='#';">---</button></td>
+	  <td><button class="dark archivebtn" target="_blank"  onclick="location.href='#';">---</button></td>
+	 </tr>
+	 <tr style="text-align:center" >
+	  <td><button class="blue archivebtn" onclick="location.href='#';">---</button></td>
+	  <td><button style="color:black" class="archivebtn" onclick="location.href='#';">---</button></td>
+	  <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
+	  <td><button class="gold archivebtn" onclick="location.href='#';">---</button></td>
+	 </tr>
+	</table>
+	
+ 
+  
+
+<!--  ✴️✴️✴️✴️  ARCHIVE  ✴️✴️✴️✴️ -->
+
+
+<div class="div-titlemenu" >
+ <span class="icofont-ui-rate-add" style="color:lightgreen" ></span>
+جدیدترین‌هــــا
+ <span class="fa fa-pen-nib" style="color:white" ></span>
 </div>
 
 
+<img src="media/purevpn.jpg" style="width:370px"  >  
 
-<div style="width:380px;border:5px ridge gray" >
-<div class="mybg4" style="font-family:sahelblack;font-size:17px;">
+</div></div></div><br><br>
+
+
+
+
+
+<br><br><div style="width:380px;border:5px ridge gray;" >
+<div class="mybg4" style="font-family:sahelblack;font-size:17px">
 <div class="theme-mobile">
 <div style="border:1px solid black;height:1px;margin-bottom:3px" ></div>
-<div style="border:1px solid white;color:yellow;margin-top:3px;margin-bottom:5px;background-color:black;font-size:30px" >VPN های کانفیگ دار</div>
- 	<img src="media/cl.png" style="width:32pt"  >  
-<button class="dark taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='ClientPRO.html';">
-CLIENT VPN PRO MOD
+
+<div class="div-titlemenu" >
+<span class="icofont-key" style="color:lightgreen;font-size:35px" ></span>
+حساب کاربری و رمزعبور
+<span class="icofont-web" style="color:orange;font-size:35px" ></span>
+</div>
+<!--marquee direction="up" height="200px" onmouseover=""-->
+
+<img src="media/pure.png" style="width:32pt"  >  
+<button class="blue taminbtn"  id="btn-menu-en"  onclick="location.href='SocketHTTP.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span></span></span>
+PURE  VPN
+</button>
+<div class="div-lastpost-fa"  >
+✴️ نام کاربری و رمز عبور ۷روزه رایگان
+</div>
+
+<img src="media/pia3.png" style="width:32pt"  >  
+<button class="normal taminbtn"  id="btn-menu-en" onclick="location.href='SocketHTTP.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span>
+PIA VPN
+</button>
+<div class="div-lastpost-fa"  >
+✴️ نام کاربری و رمز عبور ۷روزه رایگان
+</div>
+
+<img src="media/evpn.png" style="width:32pt"  >  
+<button class="red taminbtn"  id="btn-menu-en"  onclick="location.href='SocketHTTP.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span></span>
+EXPRESS VPN
+</button><br>
+<div class="div-lastpost-fa"  >
+✴️ نام کاربری و رمز عبور ۷روزه رایگان
+</div>
+
+
+</marquee>
+
+
+
+<div style="border:1px solid white;color:yellow;margin-top:3px;margin-bottom:5px;background-color:black;font-size:25px" >
+<span class="icofont-puzzle" style="color:lightgreen;font-size:35px" ></span>
+برنامه‌های کانفیگ دار
+<span class="icofont-web" style="color:orange;font-size:35px" ></span>
+</div>
+
+<!--marquee direction="up" height="200px" onmouseover=""-->
+ <img src="media/cl.png" style="width:32pt"  >  
+<button class="dark taminbtn"  id="btn-menu-en"  onclick="location.href='ClientPRO.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span></span></span>
+CLIENT VPN
 </button><br>
 <img src="media/hc.png" style="width:32pt"  >  
-<button class="gold taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='HTTPCustom.html';">
-HTTP  CUSTOM VPN
+<button class="gold taminbtn" id="btn-menu-en"  onclick="location.href='HTTPCustom.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span></span></span>
+HTTP  CUSTOM 
 </button><br>
 <img src="media/httpi.png" style="width:32pt"  >  
-<button class="gray taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='HTTPInjector.html';">
-HTTP  INJECTOR VPN
+<button class="gray taminbtn"  id="btn-menu-en"  onclick="location.href='HTTPInjector.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span></span>
+HTTP  INJECTOR
 </button><br>
 <img src="media/dark.png" style="width:32pt"  >  
-<button class="taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='Dark.html';">
-DARK TUNNEL VPN
+<button class="taminbtn"  id="btn-menu-en"  onclick="location.href='Dark.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span>
+DARK VPN
 </button><br>
 <img src="media/sip0.png" style="width:32pt"  >  
-<button class="normal taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='SIP.html';">
+<button class="normal taminbtn"  id="btn-menu-en"  onclick="location.href='SIP.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span>
 SOCKS INTERNET
 </button><br>
 <img src="media/nv00.png" style="width:32pt"  >  
-<button class="orange taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='NapsternetV.html';">
+<button class="orange taminbtn"  id="btn-menu-en"  onclick="location.href='NapsternetV.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span></span>
 NAPSTERNET.V
 </button><br>
 <img src="media/tls0.png" style="width:32pt"  >  
-<button class="red taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='TLS.html';">
-TUNNEL VPN
+<button class="red taminbtn"  id="btn-menu-en"  onclick="location.href='TLS.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span>
+TLS VPN
 </button><br>
 <img src="media/sh.png" style="width:32pt"  >  
-<button class="blue taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='SKS.html';">
-SOCKS HTTP VPN
-</button><br>
-<img src="media/v2ray.png" style="width:32pt"  >  
-<button class="taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='SocketHTTP.html';">
-🔘 V2RAY VPN 🔘
+<button class="blue taminbtn"  id="btn-menu-en"  onclick="location.href='SKS.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span></span>
+SOCKS HTTP
 </button><br>
 
+</marquee>
 
-<div style="border:1px solid white;color:yellow;margin-top:3px;margin-bottom:5px;background-color:black;font-size:22px" >VPN های معمولی</div>
-<marquee direction="up">
+<div class="div-titlemenu" >
+<span class="icofont-code" style="color:lightgreen;font-size:35px" ></span>
+کــدهای کانفیـــگ
+<span class="icofont-web" style="color:orange;font-size:35px" ></span>
+</div>
+<!--marquee direction="up" height="200px" onmouseover=""-->
 <img src="media/argo.png" style="width:32pt"  >  
-<button class="red taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='SocketHTTP.html';">
+<button class="normal taminbtn"  id="btn-menu-en"  onclick="location.href='SocketHTTP.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span></span>
 ARGO VPN
 </button><br>
-<img src="media/pure.png" style="width:32pt"  >  
-<button class="blue taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='SocketHTTP.html';">
-PURE VPN
-</button><br>
+<div class="div-lastpost"  >
+✴️ BRIDGE <br>
+✴️ FALCON <br>
+<div class="div-lastpost-fa"  >
+✴️پل و فالکون‌های جدید و به روز
+</div>
+</div>
+
 <img src="media/v2ray.png" style="width:32pt"  >  
-<button class="gold taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='SocketHTTP.html';">
-V2RAY VPN
+<button class="default taminbtn"  id="btn-menu-en"  onclick="location.href='SocketHTTP.html';">
+<span class="icofont-star" id="stars" align="left" >
+<span class="icofont-star" >
+<span class="icofont-star" >
+</span></span></span>
+️V2RAY.NG VPN
 </button><br>
-<img src="media/kb.png" style="width:32pt"  >  
-<button class=" orange taminbtn" style="font-family:nerko;font-size:20px" onclick="location.href='SocketHTTP.html';">
-KB THUNNEL
-</button></marquee>
+<div class="div-lastpost"  >
+✴️ VMESS<br>
+✴️ VLESS<br>
+✴️ TROJAN<br>
+✴️ SHADOW SOCKS <br>
+✴️ SOCKS <br>
+</div>
+
+</marquee>
 </div></div></center></div></ul></div></div>
 
 
 
-<!--  🔶🔶🔶 SCRIPT 🔶🔶🔶   -->
+<!-- 🔶🔶🔶 SCRIPT 🔶🔶🔶   -->
 <script src="js/saat.js"></script>
 <script src="js/tarikh.js"></script>
 	<script type="text/javascript">
-	document.getElementById("xmaah").innerHTML = maah[xborj];	
-	document.getElementById("xmah").innerHTML = xborj;
+	document.getElementById("xmaah").innerHTML = xborj;
+	document.getElemen
 	</script>
 <!--  🔶🔶🔶 SCRIPT 🔶🔶🔶   -->
 
-<!--div style="width:380px;margin-top:0px;" align="center" >
-  <div class="theme-tamin">
-  <table border="3"  style="width:100%;font-size:14px" class="bg-success" >
-    <tr>
-      <th colspan="4" style="color:yellow;text-align:center;font-size:20px" bgcolor="black" >آرشیو مطالب</th>
-    </tr>
-    <tr style="text-align:center" >
-      <td><button class="red archivebtn" target="_blank"  onclick="location.href='1402-04-09.html';">1402/04/09</button></td>
-      <td><button class="normal archivebtn" target="_blank" hidden="hidden"  onclick="location.href='#';">#</button></td>
-      <td><button class="orange archivebtn" target="_blank" hidden="hidden"  onclick="location.href='#';">#</button></td>
-      <td><button class="dark archivebtn" target="_blank" hidden="hidden"  onclick="location.href='#';">#</button></td>
-    </tr>
-    <!--tr style="text-align:center" >
-      <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
-      <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
-      <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
-      <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
-    </tr>
-  </table>
-  </div>
-</div-->
 
 <!--  ❌❌❌ 🔷 ❌❌❌  --
 <div style="width:380px;margin-top:0px" align="center" >
@@ -219,35 +391,6 @@ KB THUNNEL
  </div>
 </div>
 <!--  ❌❌❌ 🔷 ❌❌❌  -->
-
-  
-<!--  🕠🕓🕟 TIMER 🕡🕞🕝 --
-<div class="timediv mybg2" style="border-bottom:6px ridge gray" >
-  <table class="t-timer" >
-    <tr class="t-th" >
-      <th>ثانیه</th>
-      <th></th>
-      <th>دقیقه</th>
-      <th></th>
-      <th>ساعت</th>
-      <th></th>
-      <th>روز</th>
-    </tr>
-    <tr class="t-td" >
-      <td><span id="sec" ></span></td>
-      <td style="color:orange" >.</td>
-      <td><span id="min" ></span></td>
-      <td style="color:orange" >:</td>
-      <td><span id="hour" ></span></td>
-      <td>➸</td>
-      <td><span id="rooz" ></span></td>
-    </tr>
-  </table>
-
-</div>
-
-<script src="js/timer.js"></script>
-<!--  🕠🕓🕟 TIMER 🕡🕞🕝 -->
 
 <!-- 💡💡💡💡💡  POST  💡💡💡💡💡 -->
 
