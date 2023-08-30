@@ -9,12 +9,12 @@ var xRoooz;
 var xborj;
 if(chandom >= 21){
 xRoooz = chandom -= 22;
-xborj = mh -= 2;
+xborj = mh -= 1;
 }else{
 xRoooz = chandom += 9;
-xborj = mh -= 3;
+xborj = mh -= 2;
 }
 
 
-document.getElementById("xday").innerHTML =xRoooz + "/";
+document.getElementById("xday").innerHTML =xRoooz;
 document.getElementById("xhafte").innerHTML = shanbe[hafte];
