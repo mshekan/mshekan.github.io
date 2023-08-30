@@ -550,7 +550,7 @@ position:static;
 
 }
 	.t-td {
-	font-family: mikhak;
+	font-family:irsblack;
 	font-size: 25px;
 	color:yellow;
 	width:auto;
@@ -558,6 +558,7 @@ position:static;
 	text-align:center;
 	}
 	.t-th {
+	font-family:irsblack;
 	color: silver;
 	font-family: irsblack;
 	font-size: 23px;
@@ -571,6 +572,13 @@ border-right:6px ridge gray;
 border-left:6px ridge gray;
 
 }
+
+#btn-menu-en {
+font-family:nerko;
+font-size:18px;
+margin-top:8px;;
+}
+
 
 .formnav {
   width:390px;
@@ -627,7 +635,7 @@ margin-top:3px;
 }
 #stars {
 position:absolute;
-margin-right:190px;
+margin-right:170px;
 color:gold;
 text-shadow:1px 1px 0 black,-1px -1px 0 black;
 }
