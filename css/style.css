@@ -460,8 +460,8 @@ margin-top:10px;
 }
 .manual {
 width:100%;
-font-family:irsblack;
-font-size:13px;
+font-family:irsbold;
+font-size:14px;
 color:darkblue;
 background-color:#E4FFCF;
 }
@@ -605,8 +605,14 @@ border:1px solid white;
 color:yellow;
 margin-top:3px;
 margin-bottom:5px;
-background-color:black;
 font-size:25px;
+font-family:sahelblack;
+}
+#pic-menu {
+background-color:black;
+}
+#pic-title {
+background-image:url("../media/pic-ban3.jpg");
 }
 .div-lastpost {
 font-family:nerko;
