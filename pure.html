@@ -313,14 +313,14 @@
       <td style="color:orange" >:</td>
       <td><span id="purehour" ></span></td>
       <td>➸</td>
-      <td><span id="purerooz" ></span></td>
+      <td><span id="pureday" ></span></td>
     </tr>
   </table>
 
 
+ 
 
-
-<!--  🕠🕓🕟 TIMER 🕡🕞🕝 --
+<!--  🕠🕓🕟 TIMER 🕡🕞🕝 -->
 
 </div></div>
 <div class="footcol">
@@ -328,14 +328,25 @@
 </div>
 <script type="text/javascript">
 var puretime = setInterval(
-    function () {
-var puredate = new Date();
-var pureH = puredate . GetHours();
-var pureM = puredate . GetMinutes();
-var pureD = puredate . GetDays();
+  function () {
+    var pdate = new Date();
+    var pMin = pdate.getMinutes();
+    var pHour = pdate.getHours();
+    var pDay = pdate.getDate();
+document.getElementById("puremin").innerHTML = pMin;
+var postH = 7;
+var myH;
+if(postH > pHour){
+myH = postH - pureH;
+}else{
+myH = pHour - postH;
+}
+document.getElementById("purehour").innerHTML = myH;
+var postD = 4;
+var myD = pDay-myD+1;
+document.getElementById("pureday").innerHTML = pDay - 4;
 
-document.getElementById().innerHTML = 
-
+}, 1000);
 </script>
 <!--@@@🔵🔵🔵  PURE  VPN  🔵🔵🔵@@@-->
 

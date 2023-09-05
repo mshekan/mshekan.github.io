@@ -557,12 +557,24 @@ position:static;
 	border:1px solid white;
 	text-align:center;
 	}
+	.t-td0 {
+	font-family:led07;
+	font-size: 35px;
+
+	width:auto;
+	border:1px solid white;
+	text-align:center;
+    background-color:black;
+	}
+	
 	.t-th {
 	font-family:irsblack;
-	color: silver;
+	color: white;
 	font-family: irsblack;
 	font-size: 23px;
 	border:1px solid white;
+    background-color:darkblue;	
+    
 	}
 	
 .timediv {
