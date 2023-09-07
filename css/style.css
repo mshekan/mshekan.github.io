@@ -551,11 +551,12 @@ position:static;
 }
 	.t-td {
 	font-family:irsblack;
-	font-size: 25px;
+	font-size: 18px;
 	color:yellow;
 	width:auto;
 	border:1px solid white;
 	text-align:center;
+	background-color:black;
 	}
 	.t-td0 {
 	font-family:led07;
